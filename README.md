@@ -1,11 +1,11 @@
 ### Date created
-13th of January 2021
+28th of december 2020
 
 ### Project Title
-bikeshare.py
+Analysis of US Bikeshare market
 
 ### Description
-This project analysis bike share data according to the analyst's needs
+This project analysis bike share data according to the analyst's needs in an interface with text
 
 ### Files used
 Include the files used
