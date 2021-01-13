@@ -8,7 +8,10 @@ Analysis of US Bikeshare market
 This project analysis bike share data according to the analyst's needs in an interface with text
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
