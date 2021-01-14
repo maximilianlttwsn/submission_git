@@ -207,7 +207,7 @@ def raw_data(df):
     linecount = 1
 
     while True:
-        want_raw = input("Do you want to see 5 lines of row data? Please answer yes or no").lower()
+        want_raw = input("If you would like to see 5 lines of raw data, please answer yes or no").lower()
         if want_raw == 'yes':
             print(df[linecount:(linecount+5)])
             linecount = linecount + 5
