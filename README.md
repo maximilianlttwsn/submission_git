@@ -13,6 +13,9 @@ chicago.csv
 washington.csv
 new_york_city.csv
 
+### Dataset available
+First six month 2017
+
 ### Credits
 Inspired by the udacity class "Python Programming for Data Science"
 
