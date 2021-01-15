@@ -9,10 +9,10 @@ Analysis of US Bikeshare market
 This project analysis bike share data according to the analyst's needs in an interface with text
 
 ### Files used
-bikeshare.py
-chicago.csv
-washington.csv
-new_york_city.csv
+bikeshare.py <Br>
+chicago.csv <Br>
+washington.csv <Br>
+new_york_city.csv <Br>
 
 ### Credits
 Inspired by the udacity class "Python Programming for Data Science"
